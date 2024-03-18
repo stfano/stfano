@@ -6,4 +6,8 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=stfano&show_icons=true"> -->
 <br>
 </div>
-ㄹ
+
+
+
+2023.09.28 ~ 2024.03.22 PlayData(encore)
+
