@@ -7,7 +7,7 @@
 <br>
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fano99)](https://solved.ac/fano99/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseungpp)](https://solved.ac/sseungpp/)
 
 
 
