@@ -6,7 +6,7 @@
     <br>
 </div>
 
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fano99)](https://solved.ac/fano99)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fano99)](https://solved.ac/fano99)
 
 
 2023.09.28 ~ 2024.03.22 PlayData(encore)
