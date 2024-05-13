@@ -4,17 +4,9 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=stfano&theme=transparent&show_icons=true">
     <br>
-    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fano99)](https://solved.ac/fano99)<br/>
 </div>
 
-<div align=center>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stfano&layout=compact&theme=dark">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=stfano&theme=transparent&show_icons=true">
-    <br>
-    [Solved.ac Profile](https://solved.ac/fano99)<br/>
-</div>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fano99)](https://solved.ac/fano99)<br/>
 
 
 2023.09.28 ~ 2024.03.22 PlayData(encore)
