@@ -1,15 +1,11 @@
 <div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stfano&layout=compact&theme=dark">
-	<br>
-<img src="https://github-readme-stats.vercel.app/api?username=stfano&theme=transparent&show_icons=true">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=stfano&show_icons=true"> -->
-<br>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fano99)](https://solved.ac/fano99)<br/>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stfano&layout=compact&theme=dark">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=stfano&theme=transparent&show_icons=true">
+    <br>
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=fano99)](https://solved.ac/fano99)<br/>
 </div>
-
-
-
 
 
 
